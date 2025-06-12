@@ -1,0 +1,22 @@
+﻿.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #FF6347;
+}
+
+h2 {
+    color: #4682B4;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+}
+
+li {
+    margin: 10px 0;
+}
